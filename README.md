@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Hacker News Clone App
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ddad5043-7c5a-4c61-9961-824d8dc35f94/deploy-status)](https://app.netlify.com/sites/hacker-news-cl/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
