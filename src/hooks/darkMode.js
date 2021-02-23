@@ -22,6 +22,7 @@ export const useDarkMode = () => {
 		}
 		localTheme && setTheme(localTheme)
 		localTheme === 'dark' && document.body.classList.add('dark-mode')
+		// eslint-disable-next-line
 	}, [])
 
 	return [theme, toggleTheme]
